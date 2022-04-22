@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Bayu Setiawan 👋
+- 🔭 I’m currently study on STT Terpadu Nurul Fikri
+- 🌱 I’m currently learning programming 
+- ⚡ Fun fact: i really like coffe
 
 <!--
 **masbayou/masbayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
